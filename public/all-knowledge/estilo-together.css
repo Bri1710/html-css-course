@@ -1,0 +1,51 @@
+h1 {
+    color: lightyellow;
+    background-color: saddlebrown;
+    font-size: 35px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 35px;
+}
+body {
+    background-color: lightyellow;
+    text-align: center ;
+    color: midnightblue;
+    font-size: 15px;
+}
+
+
+h2, h3 {
+    color:saddlebrown;
+    font-size: 20px;
+}
+
+
+label, input, button {
+    color:midnightblue;
+    font-size: 15px;
+}
+
+.azul {
+    background-color: midnightblue;
+    color: lightyellow;
+    font-size: 15px;
+
+}
+
+.crema {
+    background-color: lightyellow;
+    color: midnightblue;
+    font-size: 15px;
+}
+
+::placeholder{
+    text-align: center;
+}
+ a:visited {
+     color:saddlebrown;
+     font-size: 15px;
+ }
+
+a:hover {
+    color:midnightblue;
+    font-size: 15px;
+}

@@ -1,0 +1,1 @@
+<a><div align="center" href="http://localhost:8888/php-html/html/ahumado.php"><img src="images/ahumado1.png"></div></a>
